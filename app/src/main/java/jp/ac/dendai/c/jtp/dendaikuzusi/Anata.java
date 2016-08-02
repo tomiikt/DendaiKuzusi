@@ -4,6 +4,7 @@ package jp.ac.dendai.c.jtp.dendaikuzusi;
 import android.opengl.GLU;
 
 import javax.microedition.khronos.opengles.GL10;
+//ds
 public class Anata {
     private Vect spec;
     private Angle specAngle;
